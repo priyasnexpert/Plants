@@ -56,6 +56,34 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-10-02 04:06:40</sys_updated_on>
         </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-13 11:48:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0d65be9883111210868ba3d0deaad323</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_plant_mgmt_plants" name="x_snc_plant_mgmt_plants" sys_domain="global" view="Default view">531335163ba94210a891257aa5e45ac7</sys_ui_form>
+            <sys_ui_section caption="Static Plant Data" display_value="Static Plant Data" name="x_snc_plant_mgmt_plants" sys_domain="global" view="Default view">db3224b4c3c192101036d60d050131f6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-13 11:48:19</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-13 11:48:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0565be9883111210868ba3d0deaad328</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_plant_mgmt_plants" name="x_snc_plant_mgmt_plants" sys_domain="global" view="Default view">531335163ba94210a891257aa5e45ac7</sys_ui_form>
+            <sys_ui_section caption="Pottery Details" display_value="Pottery Details" name="x_snc_plant_mgmt_plants" sys_domain="global" view="Default view">ddb71860474d521069e1edf1d16d43ea</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-13 11:48:19</sys_updated_on>
+        </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_snc_plant_mgmt_plants</name>
             <roles/>

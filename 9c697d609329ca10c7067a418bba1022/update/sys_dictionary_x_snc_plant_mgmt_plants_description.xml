@@ -29,7 +29,7 @@
         <function_field>false</function_field>
         <internal_type display_value="String">string</internal_type>
         <mandatory>false</mandatory>
-        <max_length>40</max_length>
+        <max_length>4000</max_length>
         <name>x_snc_plant_mgmt_plants</name>
         <next_element/>
         <primary>false</primary>
@@ -47,6 +47,7 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-10-02 03:37:42</sys_created_on>
+        <sys_id>453c302d83055210868ba3d0deaad383</sys_id>
         <sys_name>Description</sys_name>
         <sys_package display_value="Plant Management" source="x_snc_plant_mgmt">9c697d609329ca10c7067a418bba1022</sys_package>
         <sys_policy/>
